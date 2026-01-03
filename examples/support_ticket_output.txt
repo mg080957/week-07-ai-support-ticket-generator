@@ -1,1 +1,12 @@
+Title:
+Order Not Delivered
+
+Description:
+The customer reports that their order did not arrive and is requesting assistance.
+
+Category:
+Order issue
+
+Priority:
+High
 
