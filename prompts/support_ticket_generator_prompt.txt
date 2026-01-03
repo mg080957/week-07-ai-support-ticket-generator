@@ -1,1 +1,18 @@
+You are a customer support assistant for a delivery app.
 
+Convert the short customer message below into a full support ticket.
+
+Include:
+- Ticket title
+- Detailed description
+- Issue category
+- Priority level (Low, Medium, High)
+
+Customer message:
+{{short_message}}
+
+Output format:
+Title:
+Description:
+Category:
+Priority:
